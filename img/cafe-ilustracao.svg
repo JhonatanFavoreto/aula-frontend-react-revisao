@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 950" role="img" aria-labelledby="title desc">
+  <title id="title">Xícara de café artesanal</title>
+  <desc id="desc">Ilustração de uma xícara clara com café sobre uma mesa de madeira.</desc>
+  <rect width="900" height="950" fill="#c9946c"/>
+  <circle cx="660" cy="190" r="150" fill="#e5c5a4" opacity=".7"/>
+  <path d="M0 705c185-90 345-74 510-4s250 94 390 35v214H0Z" fill="#9d684a"/>
+  <path d="M160 447h410v236c0 84-70 151-155 151H315c-85 0-155-67-155-151Z" fill="#f3e9da"/>
+  <path d="M570 505h62c82 0 126 45 126 104s-44 104-126 104h-62v-47h56c46 0 70-22 70-57s-24-57-70-57h-56Z" fill="#f3e9da"/>
+  <ellipse cx="365" cy="447" rx="205" ry="55" fill="#fbf4e9"/>
+  <ellipse cx="365" cy="447" rx="164" ry="38" fill="#563a2e"/>
+  <ellipse cx="365" cy="440" rx="130" ry="25" fill="#744a35" opacity=".8"/>
+  <path d="M280 325c-35-69 47-84 10-162M383 325c-35-69 47-84 10-162M486 325c-35-69 47-84 10-162" fill="none" stroke="#f8e8d6" stroke-linecap="round" stroke-width="18" opacity=".72"/>
+  <path d="M121 826c240-66 466-20 710 33" fill="none" stroke="#6f4939" stroke-linecap="round" stroke-width="8" opacity=".4"/>
+</svg>
